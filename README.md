@@ -1,17 +1,18 @@
 # HeLLo, I'm Beimnet E. Dishole 
 
-### Biomedical Engineer | Sustainable Engineering | Emerging Neuroengineering & Neurotechnology Researcher
+### Biomedical Engineer | Sustainable Engineering | Emerging Computational Neuroscience, Neuroengineering & Neurotechnology Researcher
 
 I am a Biomedical Engineer with an interdisciplinary interest in engineering, sustainability, healthcare, and technology.
 
 My current work and learning interests sit at the intersection of:
 
 -  Biomedical Engineering & Design and development
--  Sustainable Engineering & Industrial Ecology
+-  Computational Neuroscience
 -  Neuroengineering & Neurotechnology
+-  Sustainable Engineering & Industrial Ecology
 -  Healthcare Systems & Technology
 -  Data Analysis, Modeling & Optimization
--   AI & Computational Methods
+-  AI & Computational Methods
 
 I am particularly interested in developing technologies and systems that connect **engineering, human health, sustainability, and intelligent computation**.
 
